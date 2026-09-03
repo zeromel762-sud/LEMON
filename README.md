@@ -2,7 +2,7 @@
 
 </p>
 
-# HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
+# 👋 HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
 
 # 🖥️ Technical Skills:
 
@@ -28,24 +28,25 @@
 
 # 🎓 Certifications
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| **AI Fundamentals: Foundations for Understanding AI** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
-| **AI Fundamentals: Foundations for Understanding AI** | ![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white) | Jul 2026 |
-| **Introduction to Modern AI** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
-| **Networking Basics** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
-| **HTML Essentials** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
+```bash
+$ ls ./certifications --sort=date
 
-# 📊 GitHub Stats:
+drwxr-xr-x  cisco   Jul_2026  AI_Fundamentals-Foundations_for_Understanding_AI.cert
+drwxr-xr-x  ibm     Jul_2026  AI_Fundamentals-Foundations_for_Understanding_AI.cert
+drwxr-xr-x  cisco   Jul_2026  Introduction_to_Modern_AI.cert
+drwxr-xr-x  cisco   Jul_2026  Networking_Basics.cert
+drwxr-xr-x  cisco   Jul_2026  HTML_Essentials.cert
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&_border=false&include_all_commits=true&count_private=true)
+$ cat ./certifications/status.log
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+[✓] AI Fundamentals: Foundations for Understanding AI   | Cisco           | Jul 2026
+[✓] AI Fundamentals: Foundations for Understanding AI   | IBM SkillsBuild | Jul 2026
+[✓] Introduction to Modern AI                            | Cisco           | Jul 2026
+[✓] Networking Basics                                    | Cisco           | Jul 2026
+[✓] HTML Essentials                                       | Cisco           | Jul 2026
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+$ _
+```
 
 <!--START_SECTION:waka-->
 ```text
