@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 ```bash
 $ whoami
@@ -90,7 +90,7 @@ $ _
 
 <!--START_SECTION:waka-->
 ```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
+FUCK   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
