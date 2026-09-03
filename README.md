@@ -2,7 +2,7 @@
 
 </p>
 
-# 👋 HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
+#  HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
 
 # 🖥️ Technical Skills:
 
@@ -10,21 +10,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
+![SQL / DB](https://img.shields.io/badge/SQL%20%2F%20DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-005A9C?style=for-the-badge&logo=accessibility&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-2E7D32?style=for-the-badge&logo=accessibleicon&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Prompt Eng.](https://img.shields.io/badge/Prompt%20Eng.-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Capcut](https://img.shields.io/badge/Capcut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Sketch App](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
-![Data Recovery](https://img.shields.io/badge/Data%20Recovery-4A4A4A?style=for-the-badge&logo=harddisk&logoColor=white)
+![Data Recovery](https://img.shields.io/badge/Data%20Recovery-4A4A4A?style=for-the-badge)
 
 # 📊 GitHub Stats:
 
