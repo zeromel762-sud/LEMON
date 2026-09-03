@@ -1,10 +1,29 @@
-<p align="center">
+<div align="center">
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+LEMON_V+%F0%9F%8B%8B;Freelance+Developer;Building+web+apps+%26+tools;AI+%2F+Automation+Enthusiast" alt="Typing SVG" />
 
-# 👋 HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeromel762-sud)
+![Profile Views](https://komarev.com/ghpvc/?username=zeromel762-sud&style=for-the-badge&color=3DDC84)
+![Followers](https://img.shields.io/github/followers/zeromel762-sud?style=for-the-badge&color=3DDC84&logo=github)
 
-# 🖥️ Technical Skills:
+</div>
+
+---
+
+## 👋 About Me
+
+```bash
+$ whoami
+
+LEMON_V — Freelance Developer
+> Building websites, tools, and automation for clients & personal projects
+> Into AI, prompt engineering, and clean UI/UX
+> Always learning, always shipping
+```
+
+---
+
+## 🖥️ Technical Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +45,9 @@
 ![Sketch App](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
 ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-4A4A4A?style=for-the-badge)
 
-# 🎓 Certifications
+---
+
+## 🎓 Certifications
 
 ```bash
 $ ls ./certifications --sort=date
@@ -48,10 +69,41 @@ $ cat ./certifications/status.log
 $ _
 ```
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zeromel762-sud&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromel762-sud&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Top Langs" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeromel762-sud&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zeromel762-sud&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 <!--START_SECTION:waka-->
 ```text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeromel762-sud)
+
+![views since 2026](https://komarev.com/ghpvc/?username=zeromel762-sud&style=flat-square&color=3DDC84&label=Profile+Views)
+
+</div>
