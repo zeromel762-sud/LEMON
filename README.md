@@ -84,13 +84,7 @@ $ _
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zeromel762-sud&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -100,10 +94,3 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 <!--END_SECTION:waka-->
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeromel762-sud)
-
-![views since 2026](https://komarev.com/ghpvc/?username=zeromel762-sud&style=flat-square&color=3DDC84&label=Profile+Views)
-
-</div>
