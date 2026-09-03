@@ -69,20 +69,7 @@ $ cat ./certifications/status.log
 $ _
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeromel762-sud&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromel762-sud&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Top Langs" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeromel762-sud&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
----
 
 
 
