@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+LEMON_V+%F0%9F%8B%8B;Freelance+Developer;Building+web+apps+%26+tools;AI+%2F+Automation+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+LEMON_DEV+%F0%9F%8B%8B;Freelance+Developer;Building+web+apps+%26+tools;AI+%2F+Automation+Enthusiast" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeromel762-sud)
 ![Profile Views](https://komarev.com/ghpvc/?username=zeromel762-sud&style=for-the-badge&color=3DDC84)
@@ -23,7 +23,7 @@ LEMON_V — Freelance Developer
 
 ---
 
-## 🖥️ Technical Skills
+## Technical Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +47,7 @@ LEMON_V — Freelance Developer
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 ```bash
 $ ls ./certifications --sort=date
