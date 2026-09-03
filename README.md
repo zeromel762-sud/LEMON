@@ -2,7 +2,7 @@
 
 </p>
 
-#  HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
+# 👋 HI WELCOME IM LEMON_V A FREELANCE DEVELOPER
 
 # 🖥️ Technical Skills:
 
@@ -25,6 +25,16 @@
 ![Adobe Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Sketch App](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white)
 ![Data Recovery](https://img.shields.io/badge/Data%20Recovery-4A4A4A?style=for-the-badge)
+
+# 🎓 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| **AI Fundamentals: Foundations for Understanding AI** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
+| **AI Fundamentals: Foundations for Understanding AI** | ![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white) | Jul 2026 |
+| **Introduction to Modern AI** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
+| **Networking Basics** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
+| **HTML Essentials** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Jul 2026 |
 
 # 📊 GitHub Stats:
 
